@@ -373,10 +373,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Contact & Support
 
 ### **Project Information**
-- **👨‍💻 Developer**: [Your Name]
-- **📧 Email**: [your.email@example.com]
-- **💼 LinkedIn**: [Your LinkedIn Profile]
-- **🐙 GitHub**: [Your GitHub Profile]
+- **👨‍💻 Developer**: Olakunle Ajani
+- **📧 Email**: olakunle.ajani@nwciowa.edu
+- **💼 LinkedIn**: https://www.linkedin.com/in/olakunleajani/
+
 
 ### **Support Resources**
 - **📚 Documentation**: Comprehensive API and user guides
